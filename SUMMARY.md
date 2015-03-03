@@ -1,4 +1,4 @@
 #SUMMARY
 
-* [Overview](Overview.md)
-* [Linking with Spark](linking-with-spark.md)
+* [Overview](Overview/README.md)
+* [Linking with Spark](linking-with-spark/README.md)
