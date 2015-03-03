@@ -2,3 +2,4 @@
 
 * [Overview](Overview/README.md)
 * [Linking with Spark](Linking-with-spark/README.md)
+* [Initializing Spark](Initializing/README.md)
