@@ -14,4 +14,4 @@
 我们也可以用`counts.sortByKey（）`，例如，向对按字母顺序排序，最后`counts.collect（）`，使它们作为对象的数组返回到驱动程序。
 
 
-**注意 ：** 在我们在key-value对操作里使用自定义的对象，你必须确保一个自定义的 `equals()`方法和匹配的自定义`hashCode()`方法协同。参见 [Object.hashCode() 文档](http://docs.oracle.com/javase/7/docs/api/java/lang/Object.html#hashCode())可得到更全面的说明。
+**注意 ：** 在我们在key-value对操作里使用自定义的对象，你必须确保一个自定义的 `equals()`方法和匹配的自定义`hashCode()`方法协同。参见 [Object.hashCode() 文档](http://docs.oracle.com/javase/7/docs/api/java/lang/Object.html)可得到更全面的说明。
