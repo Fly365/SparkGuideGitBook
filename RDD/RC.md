@@ -1,4 +1,7 @@
 #Parallelized Collections
+**推广: 更快更好的翻墙神器 [红杏]( http://honx.in/i/VPZdDZnKEyd7byzB)**
+
+---
 在你的驱动程序存在的集合（一个Scala Seq）上调用`SparkContext`'s `parallelize`方法，可以创建Parallelized集合。该集合的元素可被复制组成一个能被并行操作的分布式数据集。举个例子，下面是如何创建一个包含数字1到5的并行化集合：
 
 	val data = Array(1, 2, 3, 4, 5)
