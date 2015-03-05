@@ -1,4 +1,7 @@
 #External Datasets
+**推广: 更快更好的翻墙神器 [红杏]( http://honx.in/i/VPZdDZnKEyd7byzB)**
+
+---
 Spark可以从任何被Hadoop支持的存储源创建分布式数据集，包括本地文件系统，HDFS，Cassandra，HBASE，[Amazon S3](http://wiki.apache.org/hadoop/AmazonS3)等等。Spark支持文本文件，[序列文件](http://hadoop.apache.org/common/docs/current/api/org/apache/hadoop/mapred/SequenceFileInputFormat.html),或任何其他Hadoop [inputFormat](http://hadoop.apache.org/docs/stable/api/org/apache/hadoop/mapred/InputFormat.html)。
 
 文本文件的RDDs可以使用`SparkContext`的	`textFile`方法被创建。这个方法接受该文件的URL(包括本机上的路径，或是`hdfs://`,`s3n://`等URL)（作为参数），并读取各行作为集合。下面是调用的例子：
