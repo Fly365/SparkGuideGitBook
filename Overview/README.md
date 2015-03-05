@@ -1,4 +1,7 @@
 #Overview
+**推广: 更快更好的翻墙神器 [红杏]( http://honx.in/i/VPZdDZnKEyd7byzB)**
+
+---
 在一个高的层面上看，每一个Saprk应用都包含了驱动程序，来运行`main`方法和在集群上执行各种`parallel operations`。Spark提供的主要抽象是 `resilient distributed dataset (RDD)`(分布式弹性数据集)，这是在各个能够并行操作的集群节点间划分的数据集合。RDDs可以使用Hadoop文件系统里面文件构造（或其他Hadoop支持的文件系统），或在驱动程序里已经存在的Scala集合，并转化它。用户可能也需要去要求Spark去在内存里持久化RDD，来使得在并行操作之间更有效的复用。最后，RDDs 能够自动从失败到节点恢复。
 
 
