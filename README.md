@@ -5,6 +5,8 @@ Spark Guide Programming Guide  中文翻译
 
 基于Spark1.2.0。
 
+ps: 有兴趣的朋友可协同翻译(欢迎去fork该github项目)
+
 Mail：chenloveit@gmail.com / 18789482356@163.com
 
 
